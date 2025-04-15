@@ -8,6 +8,9 @@ https://ecommercenapratica.com/blog/paleta-de-cores/
 http://192.168.1.148:8002/pages/sistema/login/index.php
 
 http://192.168.0.122/pages/sistema/login/index.php
+
+https://sites.google.com/view/wtom/in%C3%ADcio   (repositório do TOM )
+
 *********************************************************************
 
 ip 10.1.2.208
@@ -20,6 +23,8 @@ http://sesacrenetnovo.ac.gov.br/pages/sistema/login/index.php
 ******************************************
 
 http://10.16.9.43:4000/users/sign_in   (G-hosp)
+
+http://10.24.16.251:5000/users/sign_in  (UPA Sobral - Francisco Silva)
 
 http://painel.g-hosp.com.br/users/sign_in
 
