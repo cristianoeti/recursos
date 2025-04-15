@@ -48,3 +48,10 @@ E
 192.168.1.150 - O GEP DE PRODUÇÃO
 211 E 212 - REPLICAS DO GEP
 0.122 ou 022 -  BANCO DO NOTIFICA 
+
+**********************
+
+nº do SEI 
+
+Referente a Verba Indenizatória da SAUDE no valor de 4100,00 reais
+0006.016493.00081/2024-45
